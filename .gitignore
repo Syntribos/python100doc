@@ -3,3 +3,4 @@
 .venv/
 backup/
 pythonProject/
+.secrets/
